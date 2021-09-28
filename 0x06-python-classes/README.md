@@ -1,5 +1,5 @@
-*0x06. Python - Classes and Object*
-*Tasks*
+__0x06. Python - Classes and Object*__
+__*Tasks*__
 0. My first square
 Write an empty class Square that defines a square
 1. Square with size
