@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+This model contains the Base class
+"""
 class Base:
     """Base class"""
     __nb_objects = 0
@@ -8,5 +11,6 @@ class Base:
         if (id != None):
             self.id = id
         else:
-             __nb_objects+=id
+            Base.__nb_objects += 1
+            self.id = self.__nb_objects
             
