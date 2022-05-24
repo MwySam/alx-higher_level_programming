@@ -1,0 +1,1 @@
+__This folder contains javascript code__
